@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "5599318030",
+    "project_id": "framewor-e-commerce",
+    "storage_bucket": "framewor-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5599318030:android:ca62b9c5443ba630046c5f",
+        "android_client_info": {
+          "package_name": "com.example.framework_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5599318030-0uhuo8sfhkho18vrj17a54qbsdsoknub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3up1VQgCA0y5pWEV8vYmxCZY8OKNOUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5599318030-0uhuo8sfhkho18vrj17a54qbsdsoknub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5599318030-32rrebfh95qrn020meb16olgs1rm3e72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frameworkECommerce.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
